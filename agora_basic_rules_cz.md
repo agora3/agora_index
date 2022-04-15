@@ -1,9 +1,12 @@
-1. Koupì merit (on)
-2. Tvorba merit za úkoly (tasks) (on)
-3. Tvorba merit za pøíchozí LN kanály (off)
+# ZÃ¡kladnÃ­ pravidla - Basic rules (cz)
+
+1. KoupÄ› merit (on)
+2. Tvorba merit za Ãºkoly (tasks) (on)
+3. Tvorba merit za pÅ™Ã­chozÃ­ LN kanÃ¡ly (off)
 4. Tvorba merit za hosting (on)
 5. Opt-out (on) 
 
+---
 
 Add 1.
 Treshold = 100k sats
@@ -11,7 +14,7 @@ Merit Cap = 100 Rep
 Ratio = 1:1000
 
 Add 2.
-Založení Agory = 1k
+ZaloÅ¾enÃ­ Agory = 1k
 
 Add 3.
 /

@@ -1,11 +1,15 @@
-- introduction / motivation
+##Agora
+
+#guide
+
+#introduction / motivation
 
 
-- guide
+
 
 ----
 
-- links
+#links
 
 https://en.wikipedia.org/wiki/Agorism
 

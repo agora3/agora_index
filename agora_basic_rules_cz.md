@@ -9,19 +9,35 @@
 ---
 
 Add 1.
+
 Treshold = 100k sats
+
 Merit Cap = 100 Rep
+
 Ratio = 1:1000
 
+---
+
 Add 2.
+
 Založení Agory = 1k
 
+---
+
 Add 3.
+
 /
 
+---
+
 Add 4.
+
 Daily Cap = 1
+
 Individual = General Chat, General Table of Agorians 
 
+---
+
 Add 5.
+
 /

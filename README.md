@@ -1,4 +1,4 @@
-- introductory intro / motivation
+- introduction / motivation
 
 
 - guide

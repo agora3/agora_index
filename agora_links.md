@@ -8,4 +8,5 @@
 
 - [LNP-BP  layer 2&3 open standards and protocols for Bitcoin & Lightning Network](https://github.com/lnp-bp)
 - [LNP-BP client_side_validation](https://github.com/LNP-BP/client_side_validation/)
+- [alza/lnpbp-lightningove-a-bitcoinove-protokoly](https://www.alza.cz/lnpbp-lightningove-a-bitcoinove-protokoly)
 - [RGB layer](https://github.com/agora3/rgb_layer)

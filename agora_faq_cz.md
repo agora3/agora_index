@@ -9,8 +9,10 @@
 které umožňují *weighted proof of stake hlasování* v rámci komunitní samosprávy
 
 ## Co je merit?
-Merit je **reputační jednotka** používaná v síti Agor.
-Merit je NFT.
+- Merit je **reputační jednotka** používaná v síti Agor.
+- Merit je NFT.
+- Merit může sloužit jako klíč k odemykání stránek/aplikací/"zámků".
+
 
 ## Jak funguje merit?
 - merit vzniká splněním pravidel stanovených v RGB smart kontraktu. (a lá Mint NFT)
